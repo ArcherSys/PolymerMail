@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (WIP) Polymer version of [New Gmail app](http://gmailblog.blogspot.com/2014/11/a-more-modern-gmail-app-for-android.html)
 
 **Note**: the app is *read only* despite what the permissions popup says. Also, most of the buttons don't do anything. There's a lot of missing functionality.
@@ -29,3 +30,7 @@ testig mode, you will no see custom labels in the left nav or user profile image
 - i18n
 - better perf on mobile (gesture UX needs work)
 - use new drawer-panel for touch support
+=======
+# PolymerMail
+ArcherSys Os App Versionof Polymer -Gmail
+>>>>>>> 6892e791faad92338d0bf953dda716ec76a848cb
